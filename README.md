@@ -8,7 +8,6 @@ Since I did't find it in any official releases(official releases are compiled wi
 The binary is at micropython folder. 
 ## The code
 The code is pretty straightforward and self explanatory, create LAN, activate it, wait for connection!
+![Using Lan with Esp32-Stick](lan.png)
 ## IDE
 I used Pymakr together with VSCODE
-
-![Using Lan with Esp32-Stick](lan.png)
